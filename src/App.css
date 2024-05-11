@@ -1,0 +1,23 @@
+.list-elements{
+  list-style-type: none; 
+  margin-bottom: 5px; 
+}
+.list-elements span{
+  margin-right: 50px;
+}
+.display-box{
+  margin-left:250px;
+   
+  border: 2px solid black;
+  color: blue;
+  align-items: center;
+  justify-items: center;
+   
+
+}
+
+h2{
+   text-align: center;
+   margin-left: 210px;
+   font-size: 25px;
+}
